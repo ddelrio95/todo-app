@@ -13,3 +13,4 @@ firebase.initializeApp(firebaseConfig)
 firebase.Analytics(app)
 
 var db = firebase.firestore()
+    // this is the update to keep going with the app
